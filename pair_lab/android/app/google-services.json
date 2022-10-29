@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731427797435",
+    "project_id": "pair-lab-6656f",
+    "storage_bucket": "pair-lab-6656f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731427797435:android:3d4fa7f8e8444e1e972c9e",
+        "android_client_info": {
+          "package_name": "com.example.pair_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731427797435-aqa3pgcjnh3rp7nk79jgiv890742fj1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYvnVIZC7EFy_nXu9AToSHgpg7pMpPLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731427797435-aqa3pgcjnh3rp7nk79jgiv890742fj1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
